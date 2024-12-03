@@ -1,23 +1,30 @@
-# Welcome to the PHP MVC Framework
+1. What (Apa?)
+   Aplikasi web untuk cafetaria mahasiswa UAG yang berfungsi sebagai platform belanja online mirip toko swalayan seperti Indomaret atau Alfamart, namun dengan konsep unik: barang-barangnya disuplai oleh mahasiswa yang memiliki bisnis.  
 
-This is a simple MVC framework for building web applications in PHP. It's free and [open-source](LICENSE).
+2. Who (Siapa?)  
+   - Pengguna utama: Mahasiswa UAG yang ingin berbelanja makanan, minuman, atau barang lainnya secara online.  
+   - Supplier: Mahasiswa UAG yang memiliki bisnis dan ingin memasarkan produknya.  
+   - Pihak pengelola: Tim pengembang aplikasi, Biro keuangan BEM dan cafetaria universitas yang memfasilitasi operasional sistem ini.  
 
-It was created for the [Write PHP Like a Pro: Build an MVC Framework from Scratch](https://davehollingworth.com/go/phpmvc/) course.
+3. Where (Dimana?) 
+   - Aplikasi dapat diakses secara online melalui perangkat seperti laptop, tablet, atau smartphone.  
+   - Barang yang dipesan tersedia untuk pengambilan langsung di cafetaria kampus.  
 
-That course explains how the framework is put together, building it step-by-step, from scratch. If you've taken the course, then you'll already know how to use it.
+4. When (Kapan?)  
+   - Bisa digunakan kapan saja selama jam operasional cafetaria.  
+   - Idealnya diluncurkan dan digunakan saat semester berjalan, ketika aktivitas kampus sedang ramai.  
 
-If not, please look at the example code in the [config](config) and [src/App](src/App) folders for examples of how to use it.
+5. Why (Mengapa?) 
+   - Memudahkan mahasiswa dalam bertransaksi secara praktis dan cashless.  
+   - Memberikan peluang bagi mahasiswa yang memiliki bisnis untuk memperluas pasar.  
+   - Meningkatkan efisiensi sistem belanja di cafetaria kampus.  
+   - Mendukung inklusi digital di lingkungan kampus.
 
-## DISCLAIMER
-This framework was developed as a **teaching example** on the aforementioned course. The idea is that by developing this framework on that course, you'll understand how frameworks like Laravel work. No warranty is provided. For more details please see the [licence](LICENSE).
 
-## Starting an Application using this Framework
+6. How (Bagaimana?) 
+   - Mahasiswa membuat akun untuk membeli atau menjadi supplier.  
+   - Supplier mendaftarkan produk mereka untuk dijual di platform.  
+   - Pembeli dapat memilih produk, melakukan pembayaran secara online (cashless), lalu mengambil barang di cafetaria.  
+   - Sistem akan mengintegrasikan stok, transaksi, dan pelaporan ke pihak pengelola.  
 
-1. First, download the framework, either directly or by cloning the repo.
-1. Configure your web server to have the **public** folder as the web root.
-1. Make a copy of the [.env.example](.env.example) file and call it .env, and enter your database configuration data.
-1. Create routes, controllers, views, models, middleware etc.
-
-## Build This Framework From Scratch
-
-Signup for the course [here](https://davehollingworth.com/go/phpmvc/) and understand how this framework is built from scratch, putting it all together step by step.
+"Dari Mahasiswa, Untuk Mahasiswa"
